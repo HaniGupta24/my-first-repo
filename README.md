@@ -1,17 +1,8 @@
-# My CV Project
+# My First Repo 🚀
 
-This is a simple CV webpage built with HTML, CSS, and Semantic HTML.
+This is my first GitHub repository.
 
-## Project URL
-You can view the live project here:  
-👉 [https://HaniGupta24.github.io/my-cv-project](https://github.com/HaniGupta24/my-first-repo/blob/main/gpt.html)
-## Features
-- Semantic HTML structure
-- SEO-friendly meta tags
-- Open Graph & Favicon
-- Responsive design
+## 🔗 Project Links
+- [GitHub Repository](https://github.com/HaniGupta24/my-first-repo)
 
-## Installation
-1. Clone the repository:
-   ```bash
-   https://github.com/HaniGupta24/my-first-repo
+
