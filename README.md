@@ -4,7 +4,7 @@ This is a simple CV webpage built with HTML, CSS, and Semantic HTML.
 
 ## Project URL
 You can view the live project here:  
-👉 [https://yourusername.github.io/my-cv-project](https://yourusername.github.io/my-cv-project)
+👉 [https://yourusername.github.io/my-cv-project](https://github.com/HaniGupta24/my-first-repo)
 
 ## Features
 - Semantic HTML structure
@@ -15,4 +15,4 @@ You can view the live project here:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HaniGupta24/my-cv-project.git
+   https://github.com/HaniGupta24/my-first-repo
