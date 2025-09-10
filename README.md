@@ -15,4 +15,4 @@ You can view the live project here:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my-cv-project.git
+   git clone https://github.com/HaniGupta24/my-cv-project.git
