@@ -4,8 +4,7 @@ This is a simple CV webpage built with HTML, CSS, and Semantic HTML.
 
 ## Project URL
 You can view the live project here:  
-👉 [https://yourusername.github.io/my-cv-project](https://github.com/HaniGupta24/my-first-repo)
-
+👉 [https://HaniGupta24.github.io/my-cv-project](https://github.com/HaniGupta24/my-first-repo/blob/main/gpt.html)
 ## Features
 - Semantic HTML structure
 - SEO-friendly meta tags
