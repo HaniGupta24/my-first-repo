@@ -3,6 +3,5 @@
 This is my first GitHub repository.
 
 ## 🔗 Project Links
-- [GitHub Repository](https://github.com/HaniGupta24/my-first-repo)
-
-
+- **Repository:** [GitHub Repo](https://github.com/HaniGupta24/my-first-repo)
+- **Live Demo:** [View Project](https://hanigupta24.github.io/my-first-repo/)
